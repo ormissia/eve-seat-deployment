@@ -6,5 +6,7 @@
 
 # [图文教程](BUILD_SITE.md)
 
-> 最后的最后，如果实在撘不起来，不介意的话也可以使用我的公共服务器
+---
+
+> 如果实在撘不起来，不介意的话也可以使用我的公共服务器
 > [https://seat.eveonline.games/](https://seat.eveonline.games/)
